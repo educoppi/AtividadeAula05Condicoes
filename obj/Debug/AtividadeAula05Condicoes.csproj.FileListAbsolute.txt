@@ -1,0 +1,8 @@
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\bin\Debug\AtividadeAula05Condicoes.exe.config
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\bin\Debug\AtividadeAula05Condicoes.exe
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\bin\Debug\AtividadeAula05Condicoes.pdb
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\obj\Debug\AtividadeAula05Condicoes.csproj.AssemblyReference.cache
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\obj\Debug\AtividadeAula05Condicoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\obj\Debug\AtividadeAula05Condicoes.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\obj\Debug\AtividadeAula05Condicoes.exe
+C:\Users\Dudu\source\repos\AtividadeAula05Condicoes\AtividadeAula05Condicoes\obj\Debug\AtividadeAula05Condicoes.pdb
